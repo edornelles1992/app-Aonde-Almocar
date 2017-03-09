@@ -1,0 +1,12 @@
+Bom Gosto|Av. Ipiranga 2340|Somente Buffet Livre com grelhados|0|0|0|n
+Chef Gourmet|Av. Ipiranga 1580|Buffet Livre ou Kg|0|0|0|n
+Prato Feito|Av. Protásio Alves 230|Churrascaria|0|0|0|n
+McDonald's|Shopping Bourbon Ipiranga|Fast-food|0|0|0|www.mcdonalds.com.br
+Burguer King|Rua dos Andradas 820|Fast-food|0|0|0|http://www.burgerking.com.br/
+Cantina Bela|Rua dos Principios 210|Somente Rodizio de pizza|0|0|0|n
+Vegan Food|Rua dos Andradas 410|Buffet Vegano livre|0|0|0|n
+Casa do Italiano|Av. Ipiranga 900|Casa de massas À la carte|0|0|0|n
+Panela Velha|Av. Assis Brasil 243|Buffet Livre com rodizio de massas|0|0|0|n
+Sushilandia|Av. Protásio Alves 2011|Casa de Sushis c/ rodizio|0|0|0|http://www.sushilandiabar.com.br/
+Churrascaria Tche|Rua Irmão José Otão 1820|Buffet Livre c/ rodizio de carnes|0|0|0|n
+Pizzaria do Chef |Rua da Conciliação 340|Com rodizio ou À la carte|0|0|0|n
